@@ -12,4 +12,5 @@
 **GitHub Repo Link:** https://github.com/Atharva-Werulkar/e-commerce-ui.git<br>
 
 ## Screen Shot:
-![Screenshot_1689345738](https://github.com/Atharva-Werulkar/e-commerce-ui/assets/110187613/eb354c21-4430-4890-8bf1-31afcc054fd2)
+
+<img src="https://github.com/Atharva-Werulkar/e-commerce-ui/assets/110187613/eb354c21-4430-4890-8bf1-31afcc054fd2.png" width="300" height="600" />
